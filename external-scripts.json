@@ -12,5 +12,6 @@
   "hubot-thank-you",
   "hubot-otterme",
   "hubot-darksky",
-  "hubot-nowplaying"
+  "hubot-nowplaying",
+  "hubot-schedule"
 ]
